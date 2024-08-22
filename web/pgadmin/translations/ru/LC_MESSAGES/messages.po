@@ -19,15 +19,15 @@ msgstr ""
 
 #: pgadmin/__init__.py:348 pgadmin/authenticate/internal.py:26
 msgid "Incorrect username or password."
-msgstr ""
+msgstr "Неверное имя пользователя или пароль."
 
 #: pgadmin/__init__.py:656 pgadmin/__init__.py:706
 msgid "Auto-detected {0} installation with the data directory at {1}"
-msgstr ""
+msgstr "Автоматическое обнаружение установки {0} с каталогом данных по адресу {1}"
 
 #: pgadmin/__init__.py:789
 msgid "403 FORBIDDEN"
-msgstr ""
+msgstr "403 ЗАПРЕЩЕНО"
 
 #: pgadmin/about/__init__.py:41
 #, python-format
@@ -67,7 +67,7 @@ msgstr "Режим приложения"
 
 #: pgadmin/about/static/js/AboutComponent.jsx:54
 msgid "Commit:"
-msgstr ""
+msgstr "Совершить:"
 
 #: pgadmin/about/static/js/AboutComponent.jsx:62
 msgid "Current User"
@@ -75,7 +75,7 @@ msgstr "Текущий пользователь"
 
 #: pgadmin/about/static/js/AboutComponent.jsx:71
 msgid "Electron Version"
-msgstr ""
+msgstr "Электронная версия"
 
 #: pgadmin/about/static/js/AboutComponent.jsx:80 pgadmin/browser/__init__.py:85
 #: pgadmin/preferences/static/js/components/PreferencesComponent.jsx:326
@@ -84,7 +84,7 @@ msgstr "Обозреватель"
 
 #: pgadmin/about/static/js/AboutComponent.jsx:89
 msgid "Operating System"
-msgstr ""
+msgstr "Операционная система"
 
 #: pgadmin/about/static/js/AboutComponent.jsx:99
 #, fuzzy
@@ -93,11 +93,11 @@ msgstr "Загрузка файла..."
 
 #: pgadmin/about/static/js/AboutComponent.jsx:109
 msgid "Log File"
-msgstr ""
+msgstr "Файл журнала"
 
 #: pgadmin/about/static/js/AboutComponent.jsx:119
 msgid "pgAdmin Server Configuration"
-msgstr ""
+msgstr "pgAdmin Конфигурация сервера"
 
 #: pgadmin/about/static/js/about.js:43
 #, python-format
@@ -114,27 +114,27 @@ msgstr ""
 
 #: pgadmin/authenticate/__init__.py:154
 msgid "{0} more attempt remaining."
-msgstr ""
+msgstr "Осталось еще {0} попыток."
 
 #: pgadmin/authenticate/internal.py:27
 msgid "Login failed"
-msgstr ""
+msgstr "Ошибка входа"
 
 #: pgadmin/authenticate/internal.py:28
 msgid "Email/Username not provided"
-msgstr ""
+msgstr "Email/Имя пользователя не указано"
 
 #: pgadmin/authenticate/internal.py:29
 msgid "Password not provided"
-msgstr ""
+msgstr "Пароль не указан"
 
 #: pgadmin/authenticate/internal.py:30
 msgid "Email/Username is not valid"
-msgstr ""
+msgstr "Email/Имя пользователя недействительно"
 
 #: pgadmin/authenticate/internal.py:96
 msgid "internal"
-msgstr ""
+msgstr "внутренний"
 
 #: pgadmin/authenticate/kerberos.py:162
 msgid "kerberos"
@@ -14429,7 +14429,7 @@ msgstr ""
 
 #: pgadmin/tools/erd/static/js/erd_tool/components/MainToolBar.jsx:236
 msgid "Text Color"
-msgstr ""
+msgstr "Цвет текста"
 
 #: pgadmin/tools/erd/static/js/erd_tool/components/MainToolBar.jsx:249
 msgid "Add/Edit Note"
